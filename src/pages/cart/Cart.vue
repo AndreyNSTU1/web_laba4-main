@@ -41,8 +41,8 @@ export default {
       },
 
       promo: {
-        code: 'МОЙПРОМОКОД',
-        value: 5
+        code: 'КНИГА2024',
+        value: 10
       }
     };
   },
